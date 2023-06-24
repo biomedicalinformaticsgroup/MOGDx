@@ -6,7 +6,7 @@ Multi-omic Graph Diagnosis (MOGDx) is a tool for the integration of omic data an
 ### Full pipeline overview
 ![Code Overview](./workflow_diagrams/code_flowchart.png?raw=true)
 
-### Pre-preocessing and Graph Generation
+### Pre-processing and Graph Generation
 ![R preprocess](./workflow_diagrams/pre-processing_modalities_inkscape.png?raw=true)
 
 ### AE, GNN and Heterogenous Disease Classification
